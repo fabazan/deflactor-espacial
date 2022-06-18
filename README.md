@@ -17,5 +17,5 @@ Nos quedamos con las variables **ubigeo**, **departamento**, **estrato** y **def
 ### `addLd.do` (Stata)
 Se ejecuta (opcionalmente) desde `saveSumaria04-11.do`, para añadir valores estimados de la variable **ld**.
 
-### `defEs.ipynb` (Python)
+### `def_es.ipynb` (Python)
 Se crean modelos de clasificación de 4 tipos: regresión logística, árbol de decisión, Random Forest y Gradient Boosting a fin de seleccionar el que mejor se ajuste a los datos.
